@@ -1,7 +1,8 @@
-from googlesearch import search
+#from googlesearch import search
 import asyncio
 import datetime
 
+'''
 async def Tsearch():
   a = datetime.datetime.now()
   print(a)
@@ -12,6 +13,5 @@ async def Tsearch():
   
   b = datetime.datetime.now()
   print(b)
-
-
 asyncio.run(Tsearch())
+'''
